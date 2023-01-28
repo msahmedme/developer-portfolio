@@ -29,3 +29,13 @@ section{
     height: 500px;
     /* border: 1px solid red; */
 }
+
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    border-radius: 3px;
+    padding: 5px 10px;
+    color: white;
+    font-weight: 700;
+    
+}
