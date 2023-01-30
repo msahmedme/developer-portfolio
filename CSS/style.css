@@ -17,6 +17,7 @@ p{
     float: left;
     margin-left: 2%;
     padding-left: 2%;
+    
 }
 
 
@@ -27,13 +28,14 @@ p{
 .top-banner{
     background-image: url("./../images/top-banner.png");
     background-repeat: no-repeat;
+    
     /* padding-bottom: 0px; */
 }
 
 section{
     height: 550px;
     /* border: 1px solid red; */
-    display: flex;
+    /* display: flex; */
 }
 
 .link-button{
