@@ -33,6 +33,7 @@ p{
 section{
     height: 550px;
     /* border: 1px solid red; */
+    display: flex;
 }
 
 .link-button{
